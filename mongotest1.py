@@ -11,6 +11,42 @@ d = {
     "surname":"singh"
 
 }
+d = {
+    "name" : "ajitvikram",
+    "email": "ajit.intell@gmail.com",
+    "surname":"singh"
+
+}
+d = {
+    "name" : "ajitvikram",
+    "email": "ajit.intell@gmail.com",
+    "surname":"singh"
+
+}
+d = {
+    "name" : "ajitvikram",
+    "email": "ajit.intell@gmail.com",
+    "surname":"singh"
+
+}
+d = {
+    "name" : "ajitvikram",
+    "email": "ajit.intell@gmail.com",
+    "surname":"singh"
+
+}
+d = {
+    "name" : "ajitvikram",
+    "email": "ajit.intell@gmail.com",
+    "surname":"singh"
+
+}
+d = {
+    "name" : "ajitvikram",
+    "email": "ajit.intell@gmail.com",
+    "surname":"singh"
+
+}
 
 db1 = client["mongotest1"]
 coll = db1["test1"]
